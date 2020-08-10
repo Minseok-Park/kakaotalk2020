@@ -15,7 +15,6 @@
   position: relative;
 }
 .nav__notification {
- 
   position: absolute;
   left: 15px;
   bottom: 15px;
@@ -29,4 +28,14 @@
   position: absolute;
   bottom: 30px;
   right: -20px;
+}
+.nav__notification3 {
+  display: flex;
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  bottom: 25px;
+  right: -10px;
 }
